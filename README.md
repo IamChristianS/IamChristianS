@@ -1,5 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=4000&pause=500&center=true&vCenter=true&lines=Christian+Santangelo;High+School+Student;Amateur+Web+Developer"></a>
+  <img src="https://readme-jokes.vercel.app/api?theme=react">
 </div><hr><br>
 
 <div align="center">
@@ -9,7 +10,7 @@
 
 ###
 
-<div style="float:left">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50">
@@ -20,4 +21,7 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35">
   <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35">
 </div>
-<img src="https://readme-jokes.vercel.app/api?theme=react" style="float:right">
+
+###
+
+<img src="https://readme-jokes.vercel.app/api?theme=react">
