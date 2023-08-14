@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=4000&pause=500&center=true&vCenter=true&lines=Christian+Santangelo;High+School+Student;Amateur+Web+Developer"></a>
 </div>
-<div align="center" style="margin-bottom:-4vw;">
+<div align="center" style="margin-bottom:-5%;">
   <img src="https://readme-jokes.vercel.app/api?theme=react">
 </div>
 <hr><br>
