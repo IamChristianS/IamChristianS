@@ -8,7 +8,7 @@
 </div>
 
 ###
-<div style="display:flexbox;">
+
 <div align="left" style="float:left;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50">
@@ -19,9 +19,5 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35">
   <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35">
-</div>
-
-<div align="right" style="float:right;">
-  <img src="https://readme-jokes.vercel.app/api?theme=react">
-</div>
+  <img src="https://readme-jokes.vercel.app/api?theme=react" style="float:right">
 </div>
