@@ -1,7 +1,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=4000&pause=500&center=true&vCenter=true&lines=Christian+Santangelo;High+School+Student;Amateur+Web+Developer"></a>
+</div>
+<div align="center" style="margin-bottom:-4vw;">
   <img src="https://readme-jokes.vercel.app/api?theme=react">
-</div><hr><br>
+</div>
+<hr><br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=unbl0ck&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150">
