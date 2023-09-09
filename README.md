@@ -40,5 +40,9 @@
 
 <hr><br>
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=unbl0ck">
+</div>
+<br>
+<div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=react">
 </div>
