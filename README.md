@@ -5,22 +5,12 @@
 ###
 
 # My Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamChristianS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150">
-  <img src="https://streak-stats.demolab.com?user=IamChristianS&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5&date_format=M j[, Y]" height="150">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=IamChristianS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150">
 
 ###
 
 # My Skillset
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="margin:0 1vw;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="margin:0 1vw;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin:0 1vw;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" style="margin:0 1vw;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40" style="margin:0 1vw;">
-</div>
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,java,pr,ps)](https://skillicons.dev)
 ###
 
 # My Links
@@ -34,7 +24,7 @@
   <a href="https://github.com/IamChristianS">
     <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="40">
   </a>
-  <a href="https://IamChristianS.github.io">
+  <a href="https://unbl0ck.github.io">
     <img src="https://img.shields.io/static/v1?message=Project-Hub&logo=producthunt&label=&color=46789B&logoColor=white&labelColor=&style=for-the-badge" height="40">
   </a>
 </div>
