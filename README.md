@@ -4,7 +4,7 @@
 
 ###
 
-# My Stats
+# My Stats ![Profile View Counter](https://komarev.com/ghpvc/?username=IamChristianS)
 <img src="https://github-readme-stats.vercel.app/api?username=IamChristianS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150">
 
 ###
@@ -33,9 +33,5 @@
 
 <hr><br>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IamChristianS">
-</div>
-<br>
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=react">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%231e1e2e&qColor=%2394e2d5&aColor=%23cba6f7&borderColor=%23fff">
 </div>
