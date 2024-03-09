@@ -1,6 +1,8 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&duration=4000&pause=500&center=true&vCenter=true&color=94e2d5&lines=High+School+Student;Amateur+Web+Developer;Aspiring+Developer"></a>
-</div><hr>
+</div>
+
+<hr>
 
 ```css
 #about-me {
@@ -12,18 +14,12 @@
     contact: christiansantangelo@yahoo.com;
 }
 
-.main-project {
-    name: project-hub;
-    url: unbl0ck-github-io;
-    version: 1;
-    goal: unblock-gaming;
-}
-
 .current-project {
     name: project-hub;
     url: null;
     version: 2;
-    goal: improved-ui-and-features;
+    goal: unblocked-gaming;
+    revision: improved-ui-and-features;
 }
 
 @media only skills and (max-width: 1000px) {
@@ -36,9 +32,9 @@
     .languages {
         html: proficient;
         css: proficient;
-        javascript: beginner;
+        javascript: learning;
         python: beginner;
-        java: beginner;
+        java: learning;
     }
 }
 ```
