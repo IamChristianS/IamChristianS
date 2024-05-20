@@ -26,14 +26,14 @@
     #adobe {
         premiere-pro: adept;
         photoshop: proficient;
-        after-effects: beginner;
+        after-effects: novice;
     }
 
     .languages {
         html: proficient;
         css: proficient;
-        javascript: learning;
-        python: beginner;
+        javascript: novice;
+        python: novice;
         java: learning;
     }
 }
