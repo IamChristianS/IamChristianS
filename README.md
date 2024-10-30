@@ -1,5 +1,6 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&duration=4000&pause=500&center=true&vCenter=true&color=94e2d5&lines=High+School+Student;Amateur+Web+Developer;Aspiring+Developer"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&duration=4000&pause=500&center=true&vCenter=true&color=94e2d5&lines=
+                                        High+School+Student;Aspiring+Software+Developer;Amateur+Web+Developer"></a>
 </div>
 
 <hr>
@@ -11,7 +12,7 @@
     pronouns: he-him;
     age: 16;
     favorite-color: gold;
-    contact: christiansantangelo@yahoo.com;
+    contact: christiansantangel@gmail.com;
 }
 
 .current-project {
