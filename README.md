@@ -9,7 +9,7 @@
     name: christian-santangelo;
     gender: boy;
     pronouns: he-him;
-    age: 16;
+    age: 17;
     favorite-color: gold;
     contact: christiansantangel@gmail.com;
 }
