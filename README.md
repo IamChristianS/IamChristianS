@@ -7,19 +7,10 @@
 ```css
 #about-me {
     name: christian-santangelo;
-    gender: boy;
     pronouns: he-him;
     age: 17;
     favorite-color: gold;
     contact: christiansantangel@gmail.com;
-}
-
-.current-project {
-    name: project-hub;
-    url: null;
-    version: 2;
-    goal: unblocked-gaming;
-    revision: improved-ui-and-features;
 }
 
 @media only skills and (max-width: 1000px) {
@@ -30,8 +21,8 @@
     }
 
     .languages {
-        html: proficient;
-        css: proficient;
+        html: intermediate;
+        css: intermediate;
         javascript: novice;
         python: novice;
         java: learning;
