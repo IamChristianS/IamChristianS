@@ -8,7 +8,7 @@
 #about-me {
     name: christian-santangelo;
     pronouns: he-him;
-    age: 17;
+    age: 18;
     favorite-color: gold;
     contact: christiansantangel@gmail.com;
 }
@@ -23,8 +23,8 @@
     .languages {
         html: intermediate;
         css: intermediate;
+        python: intermediate;
         javascript: novice;
-        python: novice;
         java: learning;
     }
 }
