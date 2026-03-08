@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&duration=4000&pause=500&center=true&vCenter=true&color=94e2d5&lines=High+School+Student;Amateur+Web+Developer;Aspiring+Developer"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&duration=4000&pause=500&center=true&vCenter=true&color=5CC&lines=High+School+Student;Novice+Web+Developer;Check+Pinned+Repos"></a>
 </div>
 
 <hr>
@@ -9,7 +9,6 @@
     name: christian-santangelo;
     pronouns: he-him;
     age: 18;
-    favorite-color: gold;
     contact: christiansantangel@gmail.com;
 }
 
@@ -21,11 +20,11 @@
     }
 
     .languages {
+        css: proficient;
         html: intermediate;
-        css: intermediate;
         python: intermediate;
         javascript: novice;
-        java: learning;
+        java: novice;
     }
 }
 ```
@@ -34,10 +33,6 @@
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=IamChristianS">
-</div>
-<br>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=IamChristianS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150">
 </div>
 <br>
 <div align="center">
